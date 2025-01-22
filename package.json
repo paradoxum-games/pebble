@@ -1,0 +1,15 @@
+{
+	"name": "@paradoxum-games/vibe",
+	"version": "0.1.0-rc.11",
+	"description": "",
+	"repository": {
+	  "type": "git",
+	  "url": "https://github.com/paradoxum-games/vibe"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@paradoxum-games/vide": "0.3.1"
+	}
+  }
