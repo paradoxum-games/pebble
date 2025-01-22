@@ -1,0 +1,16 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  '@paradoxum-games/vide':
+    specifier: 0.3.1
+    version: 0.3.1
+
+packages:
+
+  /@paradoxum-games/vide@0.3.1:
+    resolution: {integrity: sha512-es5r1cS6NaC6FgTIZdLCEelbNT164HB0m5n6aoN46NkRvS0s54shOiN/+fbgoMBOtqOAZhDTGqnD+6c6NusIiw==, tarball: https://npm.pkg.github.com/download/@paradoxum-games/vide/0.3.1/209c4d0bfe0926a05b98bff1d388ebb1b720cbcb}
+    dev: false
